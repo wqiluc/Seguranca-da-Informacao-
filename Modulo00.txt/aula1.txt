@@ -1,0 +1,79 @@
+📚 O que você irá aprender ao longo dos módulos
+
+==================================================
+
+🧩 Módulo 0 — Fundamentos Digitais  
+Aqui você constrói a base para tudo que vem depois 👇  
+
+- 🧠 Introdução à Segurança da Informação;  
+- 🖥️ Como os computadores realmente funcionam;  
+- 📱 Dispositivos móveis: celulares, tablets e seus riscos;  
+
+Você aprende como os dispositivos armazenam, processam e transmitem informações — e onde surgem as falhas de segurança.
+
+==================================================
+
+🔐 Módulo 1 — Identidade Digital e Acessos  
+Esse módulo protege o que mais importa: você 👤  
+
+- 📲 Redes sociais e seus perigos;  
+- 🔑 Senhas (passwords) fortes e seguras;  
+- 🔒 Autenticação em duas etapas (2FA);  
+
+Você aprende como contas são invadidas e como blindar seus acessos contra ataques.
+
+==================================================
+
+🕵️ Módulo 2 — Dados, Privacidade e Vazamentos  
+Aqui você entende o valor da sua informação 💎  
+
+- 🗂️ Privacidade na internet;  
+- 📜 Proteção de dados pessoais;  
+- 🚨 Vazamento de dados e como ele acontece;  
+
+Você aprende como empresas e hackers lidam com dados — e como se proteger de exposições.
+
+==================================================
+
+🌐 Módulo 3 — Redes, Internet e Backup  
+Tudo o que passa pela internet passa por redes 📡  
+
+- 🌍 Como redes funcionam;  
+- 🧱 Riscos em Wi-Fi público;  
+- 💾 Backup e recuperação de dados;  
+
+Você aprende a evitar perda de arquivos e invasões via rede.
+
+==================================================
+
+🦠 Módulo 4 — Códigos Maliciosos  
+Aqui entra o lado mais sombrio da internet 😈  
+
+- 🐛 Vírus;  
+- 🐴 Trojans;  
+- 🧨 Ransomware;  
+- 🧪 Malwares;  
+
+Você aprende como esses códigos atacam, como se espalham e como se defender deles.
+
+==================================================
+
+💳 Módulo 5 — Dinheiro e Golpes Digitais  
+Onde há dinheiro, há ataques 💰  
+
+- 🛒 Comércio eletrônico;  
+- 🏦 Internet Banking;  
+- 📰 Boatos, fake news e golpes;  
+
+Você aprende a comprar, pagar e se informar com segurança, evitando fraudes e armadilhas.
+
+==================================================
+
+🚀 Resultado final  
+Ao final do curso você será capaz de:  
+🔐 Proteger seus dispositivos;  
+🛡️ Evitar invasões;  
+📂 Cuidar dos seus dados;  
+💻 Usar a internet com muito mais segurança;  
+
+Esse curso te transforma de usuário comum em **usuário consciente e protegido** 🔥🔐  

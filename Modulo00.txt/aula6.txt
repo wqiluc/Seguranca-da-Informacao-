@@ -1,0 +1,72 @@
+❌⚠️ PRINCIPAIS RISCOS
+===================
+
+Se seu computador for comprometido, 
+você pode enfrentar problemas graves que afetam seus dados, seu dinheiro
+e até outras pessoas.
+
+==================================================
+
+1- 🧷 Perda de acesso ao computador:  
+Você pode ficar bloqueado fora do próprio sistema, como acontece em ataques de ransomware, onde seus arquivos ficam presos e o computador inutilizável.
+
+==================================================
+
+2- 📢 Vazamento de informações  :
+Dados como e-mails, senhas e informações pessoais podem ser expostos ou vendidos na internet, como já aconteceu em grandes plataformas como a Twitch 👀
+
+==================================================
+
+3- 🕶️ Invasão de privacidade:
+Fotos, conversas, arquivos e hábitos pessoais podem ser espionados sem você saber.
+
+==================================================
+
+4- 🪪 Furto de identidade: 
+Criminosos podem se passar por você para criar contas falsas, pedir dinheiro ou aplicar golpes em seu nome.
+
+==================================================
+
+5- 🗃️ Perda de dados:  
+Seus arquivos importantes podem ser apagados, corrompidos ou criptografados.
+
+==================================================
+
+6- 💸 Perdas financeiras:
+Contas bancárias, cartões e aplicativos de pagamento podem ser usados para roubar dinheiro.
+
+==================================================
+
+7- 🕸️ Uso do seu computador para atacar outros:
+Seu PC pode virar parte de uma botnet e ser usado para invadir, infectar ou derrubar outros computadores.
+
+==================================================
+
+8- 🧭 Ocultação do criminoso:
+O atacante pode usar seu computador como “ponte” para esconder sua identidade e localização real.
+
+==================================================
+
+9-📦 Repositório de dados fraudulentos:  
+Seu computador pode armazenar arquivos ilegais, como dados de cartões de crédito roubados, documentos falsos ou listas de vítimas.
+
+==================================================
+
+10- 🎭 Aplicação de golpes em terceiros:  
+Seu e-mail, redes sociais ou WhatsApp podem ser usados para enganar amigos, familiares ou clientes.
+
+==================================================
+
+11- 🧬 Propagação de códigos maliciosos:  
+Seu computador pode espalhar vírus, worms, trojans e ransomwares para outras máquinas.
+
+==================================================
+
+12- 📨 Envio de spam:  
+Sua máquina pode ser usada para disparar milhares de mensagens de propaganda, golpes ou links maliciosos.
+
+==================================================
+
+🚀 Conclusão: 
+Quando um computador é comprometido, ele deixa de ser apenas uma ferramenta e passa a ser uma **arma digital** nas mãos de criminosos.  
+Proteger seu PC é proteger você e todo o seu mundo digital 🔐💻✅

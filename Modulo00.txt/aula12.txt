@@ -1,0 +1,83 @@
+📲⚠️ PRINCIPAIS RISCOS NOS DISPOSITIVOS MÓVEIS — Parte 1️⃣
+====================================================
+
+📱 Dispositivos Móveis vs Computadores Pessoais:
+Assim como os PCs, os dispositivos móveis:
+- possuem funcionalidades semelhantes;
+- executam aplicativos;
+- acessam a internet;
+- armazenam dados sensíveis.
+
+Por isso, também estão expostos a **riscos muito parecidos**.
+
+==================================================
+
+🧨 Riscos principais:
+- 🦠 Códigos maliciosos (vírus, trojans, spywares);
+- 🎣 Phishing (golpes que tentam enganar o usuário);
+- 🚫 Conteúdos impróprios ou ofensivos;
+- 👤 Contato com pessoas mal-intencionadas;
+- 💾 Perda de dados;
+- 🔓 Dificuldade de manter sigilo;
+- 📤 Vazamento de informações;
+
+==================================================
+
+🎯 Por que dispositivos móveis são ainda mais atraentes para atacantes:
+Eles concentram:
+- 🧍 Dados pessoais;
+- 💬 Conversas privadas;
+- 📸 Fotos e vídeos;
+- 🏦 Dados bancários;
+- 📇 Contatos;
+- 📆 Agendas;
+- 📞 Históricos de chamadas;
+- 💳 Números de cartão de crédito;
+
+Ou seja, tudo o que um atacante quer, está dentro do celular 📲🔑
+
+==================================================
+
+🔄 Troca rápida de aparelhos:
+Os modelos de celulares são trocados com muita frequência.  
+Muitas vezes, o usuário vende, doa ou descarta o aparelho **sem apagar corretamente os dados**.
+
+Isso permite que:
+- informações antigas sejam recuperadas;
+- dados privados caiam em mãos erradas;
+- contas sejam acessadas indevidamente.
+
+==================================================
+
+📥 Coleta indevida de informações:
+Apps maliciosos ou mal configurados podem coletar:
+- SMS;
+- mensagens do Instagram;
+- contatos;
+- calendários;
+- históricos de chamadas;
+- fotos e vídeos;
+- dados de cartões de crédito.
+
+==================================================
+
+🔓 Jailbreak:
+Jailbreak (ou root) é quando o usuário remove as proteções do sistema do celular.  
+Isso permite:
+- instalar qualquer app;
+- modificar o sistema.
+
+Mas também:
+- remove barreiras de segurança;
+- facilita infecções por vírus;
+- aumenta o risco de espionagem e roubo de dados.
+
+==================================================
+
+📌 Conclusão:
+Seu celular é um cofre digital 🔐  
+Se ele for comprometido:
+- sua vida pessoal;
+- seus dados;
+- seu dinheiro  
+podem ficar em risco.

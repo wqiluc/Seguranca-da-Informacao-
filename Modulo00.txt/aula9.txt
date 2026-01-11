@@ -1,0 +1,49 @@
+🌐🔑 CONTAS E SENHAS
+
+Proteger contas e senhas é uma das formas mais importantes de manter seu computador e seus dados seguros.
+
+==================================================
+
+1- 🛡️ Proteja suas contas:  
+Crie uma conta padrão para uso diário e utilize a conta de administrador (ADM) apenas quando realmente precisar, e pelo menor tempo possível.  
+Sempre que for necessário, use a opção **“executar como administrador”** em vez de ficar logado como ADM.
+
+==================================================
+
+2- 🚫 Contas que devem estar desativadas:  
+Mantenha a conta **“convidado”** sempre desabilitada, pois ela permite acesso sem controle total.
+
+==================================================
+
+3- 🔐 Regras básicas de contas:  
+Certifique-se de que:  
+✅ Todas as contas tenham senha;  
+✅ Não existam contas de uso compartilhado;  
+✅ Usuário e senha SEJAM exigidos já na tela inicial;  
+✅ O login automático esteja desativado ❌;  
+
+==================================================
+
+4- 🧠 Como criar boas senhas:  
+Use senhas longas e com diferentes tipos de caracteres (letras, números e símbolos).  
+Evite:  
+❌ Sequências do teclado (asdf, 1234);  
+❌ Dados pessoais (nome, data de nascimento);  
+❌ Informações fáceis de descobrir por outras pessoas;  
+
+==================================================
+
+5- 🏷️ Ao usar o computador em público:  
+Utilize travas físicas, como **cadeado de notebook** preso à mesa ou à estrutura fixa 🖇️  
+Mantenha o computador sempre bloqueado quando se afastar 🔒  
+
+==================================================
+
+6- 🗝️ Criptografia de disco:  
+Ative a criptografia do disco.  
+Em caso de perda ou furto, isso impede que outras pessoas acessem seus arquivos, mesmo retirando o HD ou SSD do computador.
+
+==================================================
+
+🚀 Conclusão:  
+Contas bem configuradas e senhas fortes são a primeira barreira contra invasões 🔐💻

@@ -1,0 +1,77 @@
+🖥️3️⃣ DICAS NA UTILIZAÇÃO DE COMPUTADORES DE TERCEIROS
+==================================================
+
+Quando você usa um computador que não é seu, o risco aumenta.  
+Por isso, alguns cuidados são essenciais.
+
+==================================================
+
+🕵️ Navegação e uso de contas:  
+Ao utilizar computadores de terceiros:  
+✅ Use o modo de navegação anônima;  
+❌ Não realize transações bancárias ou compras online;  
+❌ Não utilize opções como:  
+- “Lembre-se de mim”;  
+- “Salvar senha”;  
+- “Continuar conectado”;  
+
+Sempre limpe os dados salvos no navegador (senhas, e-mails, telefones, histórico, sites).  
+Nunca permita que o navegador memorize suas senhas✅.
+
+==================================================
+
+🚪 Encerramento de sessões:  
+Sempre faça **logout** das suas contas antes de sair.  
+Não basta fechar o navegador.
+
+==================================================
+
+💾 Mídias removíveis:  
+Tenha cuidado ao conectar pendrives, HDs externos ou cartões de memória, pois eles podem conter vírus ou malwares.
+
+==================================================
+
+🔄 Ao voltar para seu computador:  
+Altere suas senhas usadas em outros dispositivos;  
+Se utilizou pendrive, faça uma verificação com antivírus.
+
+==================================================
+
+📦 Backup:  
+Faça cópias de segurança (backup) dos seus dados com frequência para não perder informações importantes.
+
+==================================================
+
+⏱️ Data e hora corretas:  
+Mantenha o relógio do sistema sincronizado.  
+Isso evita problemas de segurança e validação de certificados.  
+Exemplo de referência: **ntp.br**
+
+==================================================
+
+🛡️ Configurações de segurança:  
+Verifique as opções de segurança dos programas instalados e ajuste conforme suas necessidades.
+
+==================================================
+
+🔗 Compartilhamento de recursos:  
+Ao compartilhar pastas, impressoras ou arquivos:  
+🔐 Use senhas;  
+🎯 Defina permissões adequadas;  
+⏳ Compartilhe apenas pelo tempo necessário.
+
+==================================================
+
+🔧 Envio para manutenção:  
+Escolha empresas com boas referências;  
+Pesquise sobre elas na internet;  
+Leia opiniões de outros clientes.  
+
+Nunca permita a instalação de programas piratas 🏴‍☠️  
+Se possível, faça backup dos seus dados antes de enviar o computador.
+
+==================================================
+
+🚀 Resumo final:  
+Computadores de terceiros nunca são totalmente confiáveis.  
+Quanto menos dados você deixar neles, menor será o risco 🔐💻

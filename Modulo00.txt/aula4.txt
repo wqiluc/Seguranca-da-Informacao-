@@ -1,0 +1,102 @@
+🛡️ TERMOS DA SEGURANÇA DA INFORMAÇÃO
+=================================
+
+Esses termos são usados para classificar pessoas e comportamentos no mundo da segurança digital 👨‍💻🌐
+
+==================================================
+
+👨🏻‍💻 Hackers  
+“Hacker” de verdade é quem entende sistemas profundamente e sabe explorá-los, modificar e melhorar.  
+Eles se dividem em três tipos:
+
+🧢 White Hat (Hacker do bem)  
+- Atua de forma legal e ética;  
+- Trabalha para empresas;  
+- Testa sistemas para encontrar falhas;  
+- Ajuda a corrigir vulnerabilidades;  
+
+😈 Black Hat (Hacker do mal)  
+- Invade sistemas ilegalmente;  
+- Rouba dados;  
+- Espalha vírus;  
+- Aplica golpes;  
+
+😎 Gray Hat (Meio-termo)  
+- Invade sistemas sem permissão;  
+- Não necessariamente para roubar;  
+- Geralmente para mostrar falhas;  
+- Mesmo sem má intenção, ainda é ilegal;  
+
+==================================================
+
+📌 Newbies (ou “Noobs”) 🤓  
+Termo pejorativo para:
+- Pessoas que estão começando;  
+- Ainda não entendem bem como as coisas funcionam;  
+- Podem cometer erros por falta de conhecimento;  
+
+==================================================
+
+📌 Lammers (ou Lamers) 🧪  
+Também é um termo pejorativo para quem:
+- Não entende como algo funciona;  
+- Apenas usa ferramentas prontas;  
+- Executa programas sem saber o que está fazendo;  
+
+Exemplo:  
+Alguém que baixa um “programa de hacker” e clica em botões sem entender o que está por trás.
+
+==================================================
+
+📌 Phreakers 📞  
+Foram os primeiros “hackers” das telecomunicações.
+
+Eles exploravam sistemas de telefonia para:
+- Fazer ligações gratuitas;  
+- Enganar centrais telefônicas;  
+- Testar os limites da tecnologia da época;  
+
+🍎📱 A Apple começou com phreakers 
+
+Antes de criar a Apple, Steve Jobs e Steve Wozniak faziam parte da cultura dos **phreakers** 📞 — pessoas que estudavam e exploravam os sistemas de telefonia para entender como eles funcionavam.
+
+Na época, as ligações eram controladas por **tons sonoros**.  
+Wozniak descobriu que, se esses tons fossem reproduzidos corretamente, era possível **enganar as centrais telefônicas** e realizar chamadas de longa distância sem custo.
+
+🔵 A Blue Box  
+Wozniak construiu um pequeno dispositivo eletrônico chamado **Blue Box**, que emitia exatamente esses tons.  
+Steve Jobs percebeu o potencial e os dois começaram a montar e vender essas caixas. Eles testavam na prática, faziam ligações internacionais e comprovavam que o sistema realmente funcionava.
+
+Essa experiência foi essencial para o nascimento da Apple 🍎, porque:
+🧠 Wozniak desenvolveu habilidades avançadas de engenharia;  
+🛠️ Jobs aprendeu a transformar tecnologia em produto;  
+🚀 Ambos perceberam que entender um sistema por dentro permite criar algo melhor que ele.
+
+A Blue Box não era só uma brincadeira — ela foi o primeiro projeto real em que os dois uniram **tecnologia, criatividade e empreendedorismo**, o mesmo espírito que mais tarde criaria o Apple I e toda a empresa Apple.
+
+==================================================
+
+📌 Crackers 🧨  
+Esse é o termo **correto** para quem:
+- Invade sistemas;  
+- Quebra proteções;  
+- Rouba dados;  
+- Cria vírus;  
+- Age de forma criminosa;  
+
+Ou seja:
+❌ O que a mídia chama de “hacker”, na verdade é um **cracker**.
+
+==================================================
+
+🚀 Resumo rápido  
+
+🧢 White Hat → hacker ético;  
+😈 Black Hat → criminoso digital;  
+😎 Gray Hat → invasor sem autorização;  
+🤓 Newbie → iniciante;  
+🧪 Lammer → usa ferramentas sem entender;  
+📞 Phreaker → hacker das telecomunicações;  
+🧨 Cracker → verdadeiro criminoso digital;  
+
+Esses termos ajudam a entender quem é quem no mundo da segurança da informação 🔐👨‍💻

@@ -1,0 +1,30 @@
+APLICATIVOS (APPS) DE TERCEIROS📲🚨:
+
+1 - VERIFIQUE se as permissoes de instalaçao e execuçao sao coerentes✅;
+2 - Seja cuidadoso ao:
+2.1 - permitir que aplicativos acessem seus dados pessoais;
+2.2 - selecionar os aplicativos, escolhendo aqueles:
+2.2.1 - com grandes quantidades de usuários;
+2.2.2 - bem avaliados.
+3 - USE MECANISMOS de protecao
+4 - Instale anti-virus (antimalware):
+4.1 - mantenha-o atualizado;
+4.2 - configure-o pra verificar TODO tipo de arquivo🗳️;
+4.3 - SEMPRE verifique arquivos recebidos antes de abri-los ou executa-los.
+5 - Assegure-se de ter um firewall pessoal INSTALADO E ATIVO✅🔛
+6 - Crie um disco de recuperaçao no teu sistem
+6.1 - certifique-se de te-lo por perto em casos de emergencia TERCEIROS📲🚨
+7 - Crie um disco de emergencia no teu antivirus 🦠🚨
+7.1 - use-o se desconfiar que:
+7.1.1 - o antivirus instalado está desabilitado ou comprimetido;
+7.1.2 - o comportamento do computador está estranho
+7.1.2.1 - *explique comportamentos estranhos do computador*
+8 - Seja cuidadoso ao clicar em links 🔗
+8.1 - independentemente de como foram enviados ou por quem foram
+9 - Antes de clicar em um link curto 🔗:
+9.1 - use complementos que permitam vizualizar o link de destino 👀
+10 - Mensagens de conhecidos nem sempre sao confiáveis
+10.1 - o campo de remetente pode ter sido falsificado, ou serem enviados de contas falsas ou invadidas 🏴‍☠️❌
+11 - Desabilite a auto-execuçao de:
+11.1 - mídias removiveis;
+11.2 - arquivos anexados.

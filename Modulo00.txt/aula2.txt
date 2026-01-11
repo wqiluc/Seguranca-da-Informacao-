@@ -1,0 +1,34 @@
+📚 Bibliografias recomendadas:
+
+
+==================================================
+
+📌 Materiais do CERT.br  :
+- 📘 Cartilhas do CERT.br;  
+- 📕 Livros do CERT.br;.
+
+Esses materiais são referência no Brasil quando o assunto é:
+🔐 Segurança da Informação;  
+🌐 Internet segura;  
+🛡️ Boas práticas digitais.
+
+==================================================
+
+📌 Redes de Computadores — Base Teórica:
+- 📗 Livro: Redes de Computadores — Andrew S. Tanenbaum;  
+- 📙 Livro: Redes de Computadores — James Kurose & Keith Ross. 
+
+Esses dois livros são considerados **padrão mundial** em redes e comunicação de dados 📡  
+Eles explicam desde os conceitos básicos 
+até como a internet realmente funciona por trás dos bastidores.
+
+==================================================
+
+🚀 Por que essas bibliografias são importantes?  
+Esses materiais ajudam você a:  
+🔍 Entender como redes funcionam;  
+🔐 Compreender como ataques acontecem;  
+🛡️ Aprender como proteger sistemas;  
+💻 Se tornar um profissional de segurança muito mais completo. 
+
+Essas leituras transformam você de usuário comum em alguém que **entende a tecnologia de verdade** 🔥

@@ -1,0 +1,76 @@
+🔐 PILARES DA SEGURANÇA DA INFORMAÇÃO:
+=================================
+
+Esses pilares são a base de toda proteção digital.  
+Eles garantem que os dados estejam:
+**seguros, corretos, acessíveis, confiáveis e dentro da lei**.
+
+==================================================
+
+📌 1 — CONFIDENCIALIDADE 🔒  
+Garante que apenas quem **tem permissão** possa acessar uma informação.
+
+Exemplo–contexto 🧩  
+Uma clínica médica tem um banco de dados com prontuários dos pacientes.  
+Somente médicos e enfermeiros autorizados podem ver esses dados.
+
+Como esse pilar pode ser afetado? ⚠️  
+Se um hacker invade o sistema e copia os prontuários, a **confidencialidade é quebrada**, porque pessoas não autorizadas passaram a ter acesso às informações.
+
+==================================================
+
+📌 2 — INTEGRIDADE 🧩  
+Garante que a informação não seja **alterada** no caminho entre o ponto A e o ponto B.
+
+Exemplo–contexto 🧾  
+Você faz uma transferência bancária de R$ 500,00 pelo aplicativo.
+
+Como esse pilar pode ser afetado? ⚠️  
+Se alguém intercepta a comunicação e muda o valor para R$ 5.000,00, a **integridade foi violada**, pois o dado chegou diferente do que foi enviado.
+
+==================================================
+
+📌 3 — DISPONIBILIDADE 📡  
+Garante que um sistema, site ou serviço esteja **funcionando quando o usuário precisar**.
+
+Exemplo–contexto 🌐  
+Uma rede social como Instagram ou WhatsApp precisa estar online 24h para milhões de usuários.
+
+Como esse pilar pode ser afetado? ⚠️  
+Se um ataque derruba os servidores e o app fica fora do ar, a **disponibilidade foi comprometida**.
+
+==================================================
+
+📌 4 — AUTENTICIDADE 🧑‍💻  
+Garante que alguém é **quem realmente diz ser** no mundo digital.
+
+Exemplo–contexto 🔐  
+Você entra no seu e-mail usando login, senha e código enviado para o celular.
+
+Como esse pilar pode ser afetado? ⚠️  
+Se um invasor rouba sua senha e entra na sua conta fingindo ser você, a **autenticidade foi quebrada**.
+
+==================================================
+
+📌 5 — LEGALIDADE ⚖️  
+Garante que o uso, armazenamento e tratamento dos dados siga as **leis e normas**.
+
+Exemplo–contexto 📂  
+Uma empresa guarda dados de clientes como CPF, e-mail e endereço.
+
+Como esse pilar pode ser afetado? ⚠️  
+Se a empresa vende esses dados sem autorização, ela viola a **LGPD**, quebrando o pilar da legalidade.
+
+==================================================
+
+🚀 Resumo dos Pilares:  
+
+🔒 Confidencialidade → Quem pode acessar.  
+🧩 Integridade → O dado não pode ser alterado.  
+📡 Disponibilidade → O sistema deve estar sempre no ar.  
+🧑‍💻 Autenticidade → Provar quem você é.  
+⚖️ Legalidade → Tudo deve estar dentro da lei.
+
+C I D A L 🔒 🧩 📡 🧑‍💻 ⚖️
+
+Esses cinco pilares juntos mantêm o mundo digital **seguro, confiável e protegido** 🔥🔐
