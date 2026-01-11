@@ -73,7 +73,7 @@ Lucas Paguetti Pereira 🧙‍♂️
 
 <h2 align="center">🫆💻🔒 Conteúdo dos Módulos: </h2>
 
-### 🟢 Módulo 00 — Introdução à Segurança da Informação
+### 🟢 Módulo 00 — Introdução à Segurança da Informação✅
 - Apresentação do curso;  
 - O que é Segurança da Informação;
 - Importância da segurança no dia a dia;  
