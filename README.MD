@@ -139,7 +139,7 @@ Lucas Paguetti Pereira 🧙‍♂️
 </pre>
 
 
-<h2 align="center">🏆🔐 Objetivo do Repositório: </h2>
+<h2 align="center">🎯 Objetivo do Repositório: </h2>
 
 Este repositório foi criado **com o objetivo de:**
 
